@@ -1,8 +1,8 @@
 package com.example.cmput301t35_lab4;
 
-public class Square extends Shape{
+public class Square1 extends Shape{
     int length;
-    public Square (int x, int y) {
+    public Square1 (int x, int y) {
         super(x, y);
         this.length = x;
     }
