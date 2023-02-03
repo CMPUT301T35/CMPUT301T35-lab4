@@ -4,6 +4,13 @@ package com.example.cmput301t35_lab4;
 public abstract class Shape {
     private int x;
     private int y;
+    private String color = "$PUT_YOUR_CHOICE_OF_COLOR";
+
+
+    String color = " blue";
+
+=======
+    //String color = "black";
 
     // create a constructor for Shape
     public Shape(int x, int y) {
