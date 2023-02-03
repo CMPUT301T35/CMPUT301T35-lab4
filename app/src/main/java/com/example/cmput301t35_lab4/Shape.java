@@ -6,7 +6,12 @@ public abstract class Shape {
     private int y;
     private String color = "$PUT_YOUR_CHOICE_OF_COLOR";
 
-    String color = "black";
+
+    String color = " blue";
+
+=======
+    //String color = "black";
+
     // create a constructor for Shape
     public Shape(int x, int y) {
         this.x = x;
