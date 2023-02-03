@@ -5,6 +5,7 @@ public abstract class Shape {
     private int x;
     private int y;
 
+    String color = "black";
     // create a constructor for Shape
     public Shape(int x, int y) {
         this.x = x;
