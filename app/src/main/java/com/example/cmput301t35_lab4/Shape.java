@@ -6,13 +6,6 @@ public abstract class Shape {
     private int y;
     private String color = "blue";
 
-
-    String color = " blue";
-
-=======
-    //String color = "black";
-
-    // create a constructor for Shape
     public Shape(int x, int y) {
         this.x = x;
         this.y = y;
